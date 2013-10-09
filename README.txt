@@ -4,7 +4,7 @@ Plugin URI: http://ndigitals.com/wordpress/sqrl
 Contributors: tnolte
 Donate link: http://ndigitals.com/buy-me-coffee
 Tags: SQRL, authentication, login, security, QR
-Requires at least: 3.5.1
+Requires at least: 3.5
 Tested up to: 3.6.1
 Stable tag: 1.0.0
 License: GPLv2 or later
