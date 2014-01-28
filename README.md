@@ -1,4 +1,4 @@
-# SQRL WordPress Plugin
+# SQRL WordPress Plugin [![Build Status](https://travis-ci.org/timnolte/sql-wp-plugin.png?branch=master)](https://travis-ci.org/timnolte/sql-wp-plugin)
 
 A [WordPress](http://wordpress.org) plugin that implements the [SQRL](https://www.grc.com/sqrl/sqrl.htm) login system as presented by [Steve Gibson](http://grc.com).
 
